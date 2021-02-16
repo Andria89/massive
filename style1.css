@@ -1,0 +1,798 @@
+#he #bo{
+    font-family: 'Open Sans', sans-serif;
+    height: 125%;
+}
+
+.nav-link{
+    color: black !important;
+}
+.jum{
+    background-color: white !important;
+}
+.s-1{
+    width: 90% !important;
+}
+.btv1{
+    margin-left: 30px;
+}
+.lib1{
+    padding-left: 41px !important;
+    padding-right: 5px !important;
+}
+.btb12{
+    margin-left: 20px !important;
+}
+.dropbtn {
+    background: none;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 9px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  
+ .ssss1{
+     margin-right: 10px;
+ }
+ .nav-link1{
+     color: white !important;
+ }
+ .bg-orange{
+     background-color: orange !important;
+ }
+.responsivepls1{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://iso.500px.com/wp-content/uploads/2018/03/500px_misty_mountain_tutorial.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.formbox1{
+    width: 320px;
+    height: 72%;
+    position: relative;
+    margin: 6% auto;
+    background-color: white;
+    padding:5px ;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.toggle-btn321{
+    padding: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    border:0;
+    outline: none;
+    position: relative;
+    background: linear-gradient(to right, #ff105f,#ffad06);
+    border-radius: 15px;
+    transition:.5s;
+    border:0;
+}
+#input141{
+    position: relative;
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    top: 60px;
+}
+#input241{
+    height: 40px;
+    width: 180px;
+    position: relative;
+    top: 80px;
+}
+.toggle-btn14{
+    padding: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    border:0;
+    outline: none;
+    position: relative;
+    border-radius: 15px;
+    transition:.5s;
+    border:0;
+}
+#input341{
+    position: relative;
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    top: 100px;
+}
+#password141{
+    position: relative;
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    top: 120px;
+}
+#password241{
+    position: relative;
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    top: 140px;
+}
+#ht #bd{
+    background-color: #f3f5f9;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.main{
+    position: relative;
+    margin-top: 100px;
+}
+.wrapper31{
+    display: flex;
+    position: relative;
+}
+.product11{
+    border-radius: 10px;
+}
+.product21{
+    position: relative;
+    border-radius: 10px;
+}
+.product31{
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+}
+.wrapper31 .sidebar31{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-image: url(https://burst.shopifycdn.com/photos/misty-mountain-ranges-at-sunrise.jpg?width=925&format=pjpg&exif=0&iptc=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+}
+#img7{
+    width: 10%;
+    height: 2%;
+    border-radius: 150px;
+    position: relative;
+}
+
+.wrapper31 .sidebar31 h2{
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.wrapper31 .sidebar31 ul li{
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    border-top: 1px solid rgba(225,225, 225, 0.05);
+     transition: all .2s ease-in-out; 
+}
+.wrapper31 .sidebar31 ul li a{
+    color: black;
+    display: block;
+}
+.wrapper31 .sidebar31 ul li a .fas{
+    width: 25px;
+}
+.wrapper31 .sidebar31 ul li :hover{
+    background: white;
+    transform: scale(1.2);
+    
+}
+.wrapper31 .sidebar31 ul li :hover a{
+    color: #fff;
+}
+.wrapper31 .sidebar31 .social_media1{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+.wrapper31 .sidebar31 .social_media1 a{
+    display: block;
+    width: 40px;
+    background: #594f8d;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 5px;
+    color: #bdb8d7;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.wrapper31 .main_content{
+    width: 100%;
+    margin-left: 200px;
+}
+.wrapper31 .main_content .header{
+    padding: 20px;
+    background: #fff;
+    color: #717171;
+    border-bottom: 1px solid #e0e4e8;
+}
+.fomr21{
+    margin-left: auto;
+    margin-right: auto;
+}
+#h2667{
+    color: black;
+}
+#select112{
+    border-radius: 15px;
+    position: relative;
+    height: 30px;
+    top: 10px;
+}
+.responsivepls21{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://iso.500px.com/wp-content/uploads/2018/03/500px_misty_mountain_tutorial.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.formbox212{
+    width: 320px;
+    height: 68%;
+    position: relative;
+    margin: 6% auto;
+    background-color: white;
+    padding:5px ;
+    text-align: center;
+    border-radius: 5px;
+}
+.toggle-btn32{
+    padding: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    border:0;
+    outline: none;
+    position: relative;
+    border-radius: 15px;
+    transition:.5s;
+    border:0;
+}
+#input121{
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    position: relative;
+    top: 120px;
+    border: 2px solid;
+}
+#input281{
+    height: 40px;
+    width: 180px;
+    position: relative;
+    top: 140px;
+    border: 2px solid;
+}
+.dkopbtn {
+    background-color:grey;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .dkopdown {
+    position: relative;
+    display: inline-block;
+    top: 5px;
+  }
+  
+  .dkopdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+  
+  .dkopdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dkopdown-content a:hover {background-color: #ddd;}
+  
+  .dkopdown:hover .dkopdown-content {display: block;}
+  
+ 
+ .form-inline{
+     margin-right: 10px;
+ }
+ 
+.form21{
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+#h51{
+    position: relative;
+    top: 5px;
+  
+}
+.a161{
+    color: black;
+    position: relative;
+   top: 10px;
+}
+.btn-group-lg>.btn, .btn-lg{
+    height: 45px !important;
+    width: 100px;
+    position: relative;
+    top: 5px;
+}
+.btz1{
+    position: relative;
+    margin-left: 20px !important;
+}
+.dlopbtn {
+    background-color: grey;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .dlopdown {
+    position: relative;
+    display: inline-block;
+    top: 5px;
+  }
+  
+  .dlopdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+  
+  .dlopdown-content a {
+    color: black;
+   
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dlopdown-content a:hover {background-color: #ddd;}
+  
+  .dlopdown:hover .dlopdown-content {display: block;}
+  
+ 
+ .form123{
+     margin-right: 10px;
+ }
+ 
+.form123{
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+#h522{
+    position: relative;
+    top: 5px;
+  
+}
+.a1112{
+    color: black;
+    position: relative;
+   top: 10px;
+}
+.btl1{
+    position: relative;
+    width: 60%;
+}
+.responsivepls421{
+  background-color: #f8f8f8;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+}
+#h4{
+  position: relative;
+  left: 23px;
+}
+#h6{
+  position: relative;
+  left: 24px;
+}   
+.w-10021 {
+    width: 80%!important;
+    position: relative;
+}
+.btk124{
+    position: relative;
+    margin-top: 25% !important;
+}
+#h1234{
+    position: relative;
+    margin-top: 10% !important;
+}
+.row265{
+    background-color: white !important;
+    width: 100%;
+    height: 30px;
+}
+.row365{
+    background-color: grey !important;
+    width: 100%;
+    height: 30px;
+}
+.row465{
+    background-color: white !important;
+    width: 100%;
+    height: 30px;
+}
+.row565{
+    background-color: grey !important;
+    width: 100%;
+    height: 30px;
+}
+.row665{
+    background-color: white !important;
+    width: 100%;
+    height: 30px;
+}
+
+.row765{
+    background-color: grey !important;
+    width: 100%;
+    height: 30px;
+}
+.row865{
+    background-color: white !important;
+    width: 100%;
+    height: 30px;
+}
+#o1{
+    background-color: #f3f5f9;
+    font-family: 'Josefin Sans', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.wrapper{
+    display: flex;
+    position: relative;
+}
+.wrapper .sidebar{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-image: url(https://burst.shopifycdn.com/photos/misty-mountain-ranges-at-sunrise.jpg?width=925&format=pjpg&exif=0&iptc=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+}
+#img766{
+    width: 8%;
+    height: 2%;
+    border-radius: 150px;
+    position: relative;
+}
+
+.wrapper .sidebar h2{
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.row1255{
+    position: relative;
+    top: 20px;
+}
+.wrapper .sidebar ul li{
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    border-top: 1px solid rgba(225,225, 225, 0.05);
+     transition: all .2s ease-in-out; 
+}
+.wrapper .sidebar ul li a{
+    color: black;
+    display: block;
+}
+.wrapper .sidebar ul li a .fas{
+    width: 25px;
+}
+.wrapper .sidebar ul li :hover{
+    background: white;
+    transform: scale(1.2);
+    
+}
+.wrapper .sidebar ul li :hover a{
+    color: #fff;
+}
+.wrapper .sidebar .social_media1{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+.wrapper .sidebar .social_media1 a{
+    display: block;
+    width: 40px;
+    background: #594f8d;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 5px;
+    color: #bdb8d7;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.wrapper .main_content{
+    width: 100%;
+    margin-left: 200px;
+}
+.wrapper .main_content .header{
+    padding: 20px;
+    background: #fff;
+    color: #717171;
+    border-bottom: 1px solid #e0e4e8;
+}
+#o55{
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.formbox2233{
+    width: 35%;
+    height: 68% ;
+    position: relative;
+    margin-left: 100px;
+    background-color: white !important;
+    padding:5px ;
+}
+.responsivepls612{
+    height: 100% !;
+    width: 80%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.wrapper1{
+    display: flex;
+    position: relative;
+}
+.wrapper1 .sidebar1{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background-image: url(https://burst.shopifycdn.com/photos/misty-mountain-ranges-at-sunrise.jpg?width=925&format=pjpg&exif=0&iptc=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+}
+
+
+.wrapper1 .sidebar1 h2{
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#p177{
+    position: relative;
+    right: 40px;
+}
+.wrapper1 .sidebar1 ul li{
+    padding: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    border-top: 1px solid rgba(225,225, 225, 0.05);
+     transition: all .2s ease-in-out; 
+}
+.wrapper1 .sidebar1 ul li a{
+    color: black;
+    display: block;
+}
+.btn-success{
+    position: relative;
+    top: 5px;
+}
+#textarea{
+    border-color: #28a745;   
+}
+.wrapper1 .sidebar1 ul li a .fas{
+    width: 25px;
+}
+.wrapper1 .sidebar1 ul li :hover{
+    background: white;
+    transform: scale(1.2);
+    
+}
+.wrapper1 .sidebar1 ul li :hover a{
+    color: #fff;
+}
+.btn12{
+    position: relative;
+}
+.wrapper1 .sidebar1 .social_media1{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+#select133{
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.wrapper1 .sidebar1 .social_media1 a{
+    display: block;
+    width: 40px;
+    background: #594f8d;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 5px;
+    color: #bdb8d7;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.wrapper1 .main_content{
+    width: 100%;
+    margin-left: 200px;
+}
+.wrapper1 .main_content .header{
+    padding: 20px;
+    background: black;
+    color: #717171;
+}
+
+.button-box88{
+    width: 100%;
+    height: 5% !;
+    background-image: url(https://uploads-ssl.webflow.com/5a924f57a44ab70001e8f433/5a9b10d7a2f0dc0001b4e105_Graphics_02a%20Blurred%20Background%20Pack%201.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+.img1{
+    border-radius: 50%;
+    width: 30%;
+    height: 60%;
+    position: relative;
+}
+#h288{
+    color: black;
+}
+#h287{
+    color: black;
+}
+#p222{
+    color: yellowgreen;
+}
+.con55{
+    margin-top: 100px;
+}
+
+.row965{
+    background-color:grey !important;
+    width: 100%;
+    height: 30px;
+}
+.btj12{
+    position: relative;
+    top: 30px;
+}
+.h398{
+    color: black ;
+    font-size: 20px !important;
+}
+.h298{
+    color: white;
+    font-size: 20px !important;
+}
+.container141{
+  background-color: white !important;
+}
+.col12{
+  padding-left: 41px !important;
+  padding-right: 5px !important;
+}
+#h411{
+  position: relative;
+  left: 23px;
+}
+#h611{
+  position: relative;
+  left: 24px;
+}   
+.fa-search:before {
+    position: relative;
+    content: "\f002";
+    top: 5px;
+}
+.toggle-btn131{
+    padding: 10px;
+    cursor: pointer;
+    background-color: transparent;
+    border:0;
+    outline: none;
+    position: relative;
+    border-radius: 15px;
+    transition:.5s;
+    border:0;
+    background: linear-gradient(to right, blue, purple);
+}
+.btx1{
+    position: relative;
+    top: 159px;
+}
+.nav-ki1{
+    position: relative;
+    margin-left: 125px;   
+   }
+.cadr{
+    height: 120%;
+}
+.bth12{
+    position: relative;
+    top: 80px;
+}
+#iimg1{
+    width: 90%;
+    height: 90% !important;
+}
+.btc1{
+    position: relative;
+    top: 179px;
+}
+.nav-pi1{
+ position: relative;
+ margin-left: 125px;   
+}
